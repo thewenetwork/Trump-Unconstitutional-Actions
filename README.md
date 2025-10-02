@@ -4,11 +4,11 @@ A concise, source-linked catalog of Trump-era actions that courts found **uncons
 
 ## Contents
 - `UNCONSTITUTIONAL.md` — one-pager with cases, short quotes, **Status**, and primary source links.
-- `handout.pdf` — printable version of the one-pager.
+- `Trump_unconstitutional_handout.pdf` — printable version of the one-pager.
 
 ## Quick Start
 - Read **UNCONSTITUTIONAL.md** for copy/paste citations.
-- Share **handout.pdf** for a single-page summary.
+- Share **Trump_unconstitutional_handout.pdf for a single-page summary.
 
 ## Status Glossary
 - **Preliminary injunction:** temporary stop; challengers likely to win.
